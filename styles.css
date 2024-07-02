@@ -1,0 +1,67 @@
+body {
+    position: relative;
+    background-color: lightgrey;
+    margin: 0px;
+    font-family: "Poppins", sans-serif;
+}
+.header {
+    font-size: 1em;
+    height: 60px;
+    width: 100%;
+    background: white;
+    text-align: center;
+    color: black;
+}
+
+.post {
+    width: 50%;
+    margin: 50px 25% 50px 25%;
+    height: auto;
+    background-color: white;
+}
+
+    .post img {
+        width: 100%;
+        object-position: center;
+        object-fit: contain;
+    }
+
+    .post p {
+        font-size: 1em;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        padding: 0px 15px 15px 15px;
+    }
+
+h1 {
+    margin-top: 0px;
+    padding: 10px;
+}
+
+h3 {
+    margin: 2px;
+    padding: 0px;
+}
+
+.titulo {
+    display: flex;
+    float: left;
+    padding: 10px;
+}
+
+.fecha {
+    display: flex;
+    float: right;
+    padding: 10px;
+    color: grey;
+}
+
+
+
+
+/* 9   14 (42%)    10  
+
+lunes 12 de agosto lunes miércoles y viernes 18 a 21 por 18 semanas. Finaliza el viernes 13 de Diciembre 
+aprobación 80% asistencia + entrega de los proyectos. más del 80% y el proyecto final. En equipo.
+promedio 12hs extra semanales */ 
